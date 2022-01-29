@@ -11,7 +11,7 @@ To run the app locally : `streamlit run main.py`
 
 Description:
 
-  There are 3 Features : Manual Selection, Auto Selection, Find Simlar Song
-    `Manual Selection` : We can manually get song recommendation based on the parameters we give
-    `Auto Selection  `  : This option will recommend songs based on emotion that is detected from the camera
-    `Find Simlar Song` : This takes an input song and will recommend songs based on that
+  - There are 3 Features : Manual Selection, Auto Selection, Find Simlar Song
+    * `Manual Selection` : We can manually get song recommendation based on the parameters we give
+    *  `Auto Selection  `  : This option will recommend songs based on emotion that is detected from the camera
+    * `Find Simlar Song` : This takes an input song and will recommend songs based on that
